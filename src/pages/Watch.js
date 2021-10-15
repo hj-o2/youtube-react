@@ -1,3 +1,5 @@
+import { Layout } from "../components/Layout/Layout";
+
 export const Watch = () => {
-  return <div>Watch</div>;
+  return <Layout>Watch</Layout>;
 };

@@ -1,3 +1,5 @@
+import { Layout } from "../components/Layout/Layout";
+
 export const Search = () => {
-  return <div>Search</div>;
+  return <Layout>Search</Layout>;
 };
