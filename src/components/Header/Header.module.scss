@@ -25,6 +25,10 @@
       height: 32px;
       display: flex;
       margin: 12px 0;
+      @media screen and (max-width: 960px){
+        width: 90%;
+        margin: 1rem auto;
+      }
       input {
         width: 80%;
         text-indent: 0.5rem;
